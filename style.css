@@ -1,0 +1,58 @@
+.head{
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.slide li a:hover {
+    color: rgb(28, 185, 190);
+}
+
+.slide1 h1{
+    font-size: 50px;
+    font-weight: 400;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.slide1 p{
+    margin-top: 30px;
+    font-size: 20px;
+    margin-left: 40px;
+}
+
+.slide1 button{
+    margin-top: 40px;
+    background-color: grey;
+    box-shadow: 5px 5px 5px grey;
+    transition: 0.1s;
+    transform: scale(1.1);
+}
+
+.slide1 {
+    background-image: linear-gradient(rgba(17, 176, 224, 0.87),rgba(52, 227, 233, 0.733)),url('c-1.jpg');
+    height: 80vh;
+}
+
+.slide2 {
+    border-bottom: lightslategrey;
+}
+.card i{
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+
+.card{
+   margin-left: 100px;
+}
+
+.slide12 i{
+    font-size: 20px ;
+}
+.slide12 i:hover{
+     color: rgb(58, 183, 224);
+}
+
+.slide12 .phone{
+    font-size: 20px;
+}
+
